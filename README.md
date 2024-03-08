@@ -1,1 +1,1 @@
-Modelling conversion based on user attributes using example case data to derive insights to optimize the funnel. 
+Modelling funnel conversion to derive business insights using user attributes from example case data.
